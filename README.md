@@ -3,14 +3,13 @@ How to Read a Paper
 https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 
 # Quiz 1 Readings
-The Security Mindset  
+##The Security Mindset  
 https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html  
-Reflections on trusting trust  
+##Reflections on trusting trust  
 https://dl.acm.org/doi/10.1145/358198.358210  
-Chapter 1 of Gasser  
+##Chapter 1 of Gasser  
 https://www.semanticscholar.org/paper/Building-a-Secure-Computer-System-Gasser/3dcadf5f0cdf923e88deb9cc2785cef9449f9f71  
-Trusted Platform Module  
-https:/Trusted Computer Systems Evaluation Criteria  
+##Trusted Platform Module: Trusted Computer Systems Evaluation Criteria  
 https://www.acsac.org/2004/papers/ClassicPaperSchafer.pdf  
 
 # Quiz 2 Readings
