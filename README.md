@@ -3,7 +3,7 @@ How to Read a Paper
 https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 
 # Quiz 1 Readings
-The Security Mindset
+The Security Mindset  
 https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html
 Reflections on trusting trust
 https://dl.acm.org/doi/10.1145/358198.358210
