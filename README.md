@@ -4,14 +4,14 @@ https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 
 # Quiz 1 Readings
 The Security Mindset  
-https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html
-Reflections on trusting trust
-https://dl.acm.org/doi/10.1145/358198.358210
-Chapter 1 of Gasser
-https://www.semanticscholar.org/paper/Building-a-Secure-Computer-System-Gasser/3dcadf5f0cdf923e88deb9cc2785cef9449f9f71
-Trusted Platform Module
-https:/Trusted Computer Systems Evaluation Criteria
-https://www.acsac.org/2004/papers/ClassicPaperSchafer.pdf
+https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html  
+Reflections on trusting trust  
+https://dl.acm.org/doi/10.1145/358198.358210  
+Chapter 1 of Gasser  
+https://www.semanticscholar.org/paper/Building-a-Secure-Computer-System-Gasser/3dcadf5f0cdf923e88deb9cc2785cef9449f9f71  
+Trusted Platform Module  
+https:/Trusted Computer Systems Evaluation Criteria  
+https://www.acsac.org/2004/papers/ClassicPaperSchafer.pdf  
 
 # Quiz 2 Readings
 Hello! I hope everyone's had a good first week. Module 2 is available and the second quiz is open to take this week. Following are the assigned readings for this week: 
