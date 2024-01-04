@@ -1,3 +1,4 @@
+# Quiz 1 Readings
 # Optional:  
 
 ##     How to Read a Paper:  
@@ -21,21 +22,6 @@
 ##     Trusted Platform Module: Trusted Computer Systems Evaluation Criteria  
 
         https://www.acsac.org/2004/papers/ClassicPaperSchafer.pdf  
-
-
-# CS6238
-How to Read a Paper
-https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
-
-# Quiz 1 Readings
-### The Security Mindset  
-https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html  
-### Reflections on trusting trust  
-https://dl.acm.org/doi/pdf/10.1145/358198.358210
-### Chapter 1 of Gasser  
-https://gtvault-my.sharepoint.com/:b:/g/personal/chayes42_gatech_edu/EUGjepBeYIxItjue25NvCW0BkKC4nCHt-uk3BeFx3j5yzQ?e=cQ5FkL    
-### Trusted Platform Module: Trusted Computer Systems Evaluation Criteria  
-https://www.acsac.org/2004/papers/ClassicPaperSchafer.pdf  
 
 # Quiz 2 Readings
 Hello! I hope everyone's had a good first week. Module 2 is available and the second quiz is open to take this week. Following are the assigned readings for this week: 
