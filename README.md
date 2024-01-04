@@ -6,7 +6,7 @@ https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf
 ### The Security Mindset  
 https://www.schneier.com/blog/archives/2008/03/the_security_mi_1.html  
 ### Reflections on trusting trust  
-https://dl.acm.org/doi/10.1145/358198.358210  
+https://dl.acm.org/doi/pdf/10.1145/358198.358210
 ### Chapter 1 of Gasser  
 https://www.semanticscholar.org/paper/Building-a-Secure-Computer-System-Gasser/3dcadf5f0cdf923e88deb9cc2785cef9449f9f71  
 ### Trusted Platform Module: Trusted Computer Systems Evaluation Criteria  
