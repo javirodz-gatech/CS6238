@@ -24,10 +24,15 @@
         https://www.acsac.org/2004/papers/ClassicPaperSchafer.pdf  
 
 # Quiz 2 Readings
-Hello! I hope everyone's had a good first week. Module 2 is available and the second quiz is open to take this week. Following are the assigned readings for this week: 
-1. The Protection of Information in Computer Systems - You should primarily focus on the section that focuses on design principles since that is most relevant to the topic for the week. [I.A.3]
-http://web.mit.edu/Saltzer/www/publications/protection/
-2. Chapter 5 of Morrie Gasser book
+## Required:  
+
+### The Protection of Information in Computer Systems - You should primarily focus on the section on design principles since that is most relevant to the topic for the week. [I.A.3]  
+
+        http://web.mit.edu/Saltzer/www/publications/protection/
+
+###     Chapter 5 of Gasser  
+
+        https://gtvault-my.sharepoint.com/:b:/g/personal/chayes42_gatech_edu/EUGjepBeYIxItjue25NvCW0BkKC4nCHt-uk3BeFx3j5yzQ?e=cQ5FkL  
 
 # Quiz 3 Readings 
 1. Chapter 5: Intel Architectures Software Developer Manual - I would recommend skimming through Chapter 5 with a focus on sections 5.5 - 5.9
