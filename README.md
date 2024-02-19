@@ -87,16 +87,16 @@ https://www.usenix.org/legacy/events/sec02/full_papers/chen/chen.pdf
 These are quite a few papers to read this week. I would recommend getting started early, and hope this helps! Good luck on this quiz!
 
 # Quiz 7 Readings
-The papers for this week are:
-Chapter 6 of Morrie Gasser book (section 6.3+)
-Clark-Wilson Commercial MAC Policy
-https://ieeexplore.ieee.org/document/6234890
-Role-based access control
-https://www.profsandhu.com/journals/computer/i94rbac(org).pdf
-Also if you feel curious, you could take a look at the original BLP report (it's fairly long)
-https://csrc.nist.gov/csrc/media/publications/conference-paper/1998/10/08/proceedings-of-the-21st-nissc-1998/documents/early-cs-papers/bell76.pdf
+The papers for this week are:  
+Chapter 6 of Morrie Gasser book (section 6.3+)  
+Clark-Wilson Commercial MAC Policy  
+https://ieeexplore.ieee.org/document/6234890  
+Role-based access control  
+https://www.profsandhu.com/journals/computer/i94rbac(org).pdf  
+Also if you feel curious, you could take a look at the original BLP report (it's fairly long)  
+https://csrc.nist.gov/csrc/media/publications/conference-paper/1998/10/08/proceedings-of-the-21st-nissc-1998/documents/early-cs-papers/bell76.pdf  
 Almost all of the 2nd and 3rd paper are relevant. However, the quiz will be focused more on the lectures. Understand them well.
-The 2nd paper can be accessed by logging in using OpenAthens with a GaTech ID. Or just google for the paper and you will find it from MIT as well. 
+The 2nd paper can be accessed by logging in using OpenAthens with a GaTech ID. Or just google for the paper and you will find it from MIT as well.   
 
 # Quiz 8 Readings
 The topic for this week is Mandatory Access Control in SE Linux.
